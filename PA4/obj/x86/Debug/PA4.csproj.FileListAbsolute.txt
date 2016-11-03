@@ -1,0 +1,30 @@
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\bin\Debug\PA4.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\bin\Debug\PA4.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.frmSongs.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.Properties.Resources.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.csproj.GenerateResource.Cache
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.AddModifySong.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\PA4\obj\x86\Debug\PA4.RemoveSong.resources
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.exe
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.pdb
+Z:\CSC220\PA4\PA4\bin\Debug\PA4.exe
+Z:\CSC220\PA4\PA4\bin\Debug\PA4.pdb
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.AddModifySong.resources
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.frmSongs.resources
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.Properties.Resources.resources
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.RemoveSong.resources
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.csproj.GenerateResource.Cache
+H:\CSC220\PA4\PA4\obj\x86\Debug\PA4.exe
+H:\CSC220\PA4\PA4\obj\x86\Debug\PA4.pdb
+H:\CSC220\PA4\PA4\bin\Debug\PA4.exe
+H:\CSC220\PA4\PA4\bin\Debug\PA4.pdb
+H:\CSC220\PA4\PA4\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\CSC220\PA4\PA4\obj\x86\Debug\PA4.AddModifySong.resources
+H:\CSC220\PA4\PA4\obj\x86\Debug\PA4.frmSongs.resources
+H:\CSC220\PA4\PA4\obj\x86\Debug\PA4.Properties.Resources.resources
+H:\CSC220\PA4\PA4\obj\x86\Debug\PA4.RemoveSong.resources
+H:\CSC220\PA4\PA4\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\CSC220\PA4\PA4\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\CSC220\PA4\PA4\obj\x86\Debug\PA4.csprojResolveAssemblyReference.cache
